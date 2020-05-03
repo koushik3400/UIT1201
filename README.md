@@ -1,6 +1,6 @@
 # UIT1201
 ## Fundamentals of C programming
-### Unit I (C Programming Basics) & second half (Bit wise operators, Enumerated data types, Type casting, ### Macros, C preprocessor,) of Unit V:
+### Unit I (C Programming Basics) & second half (Bit wise operators, Enumerated data types, Type casting,Macros, C preprocessor,) of Unit V:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Progs. 1 - 74 
 
 ### Unit II (Arrays and Strings):
