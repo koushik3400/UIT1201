@@ -33,4 +33,4 @@ Console input output functions, Disk input output functions, Data files, Additio
 in C; Command line arguments, Bit wise operators, Enumerated data types, Type casting,
 Macros, C preprocessor, library functions.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Progs. 154 - 173
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Progs. 154 - 171
